@@ -1,0 +1,1 @@
+SYSFS{vendor}=="iriver" SYSFS{model}=="T10" OWNER="reynolds" MODE="0600" SYMLINK+="iriver%n"
